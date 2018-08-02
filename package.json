@@ -1,0 +1,28 @@
+{
+  "name": "happ",
+  "version": "1.0.0",
+  "description": "weixin miniapp prototype",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsonzha/happ.git"
+  },
+  "keywords": [
+    "weixin",
+    "miniapp"
+  ],
+  "author": "jiashun.z@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnsonzha/happ/issues"
+  },
+  "homepage": "https://github.com/johnsonzha/happ#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}

@@ -1,0 +1,6 @@
+<view style="width:90%; margin:10% auto;" wx:if="{{showButton}}">
+  <view style="margin-bottom:10%; text-align:center;">需要获取您的授权</view>
+  <button class='bottom-btn' style="line-height:56rpx; border-radius:10rpx;" open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">
+    授权登录
+  </button>
+</view>

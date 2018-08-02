@@ -1,0 +1,25 @@
+
+.page-container{
+	height:100%;
+	margin: 0 28rpx;
+	overflow-x:hidden;
+}
+.logo {
+    width: 88rpx;
+    height: 88rpx;
+    border: 1px solid #eee;
+    border-radius: 10rpx;
+}
+.desc-wrap{
+	margin-left: 20rpx;
+}
+.brand-name {
+    color: #437FBE;
+    font-size: 32rpx;
+    font-weight: bold;
+}
+.goods-desc{
+	font-size: 28rpx;
+	word-wrap: break-word;
+	margin: 20rpx 0;
+}
